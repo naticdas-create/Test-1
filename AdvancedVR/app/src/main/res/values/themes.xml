@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.AdvancedVR" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+        <item name="android:colorAccent">#2F6BFF</item>
+    </style>
+</resources>
